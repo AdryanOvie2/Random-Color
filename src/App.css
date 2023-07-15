@@ -4,3 +4,33 @@
   padding: 2rem;
   text-align: center;
 }
+    .box{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        border: 1px solid black;
+        padding: 2rem;
+        width: 25rem;
+        height: 15rem;
+    }
+        .box p{
+            font-size: 3rem;
+            font-weight: bold;
+        }
+        .box button{
+            font-size: 1.3rem;
+            color: white;
+            border-radius: 20px;
+            background-color: #008CBA;
+            margin: 1rem;
+            padding: 10px 30px;
+            border: 3px solid #008CBA;
+            user-select: none;
+            cursor: pointer;
+            transition: 0.4s;
+        }
+        .box button:hover{
+            background-color: #05455B;
+        }
