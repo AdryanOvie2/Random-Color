@@ -10,10 +10,12 @@
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        border: 1px solid black;
         padding: 2rem;
         width: 25rem;
         height: 15rem;
+        backdrop-filter: saturate(180%) blur(5px) border-radius(5px);
+        background: hsla(0, 0%, 100%, 0.533);
+        border-radius: 5px;
     }
         .box p{
             font-size: 3rem;
