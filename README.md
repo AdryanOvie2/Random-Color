@@ -10,5 +10,5 @@ Este proyecto ha sido replicado con intenciones educativas
 
 ###
 Para visualizar el sitio puedes acceder al siguiente enlace:
-[Silx-Sound](https://adryanovie2.github.io/Random-Color/)
+[Random-Color](https://adryanovie2.github.io/Random-Color/)
 ![alt text](https://github.com/AdryanOvie2/Random-Color/blob/main/readme.png)
