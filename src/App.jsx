@@ -4,7 +4,7 @@ import { useState } from 'react';
 
 // const color = document.getElementById('color');
 let nameColor = '#2B807B';
-function App() {
+export default function App() {
     let [color, setColor] = useState('#2B807B')
     function GenerateColorRandom(){
         let digitos  = '0123456789ABCDEF';
@@ -31,5 +31,3 @@ function App() {
     </>
   )
 }
-
-export default App
