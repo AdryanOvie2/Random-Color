@@ -1,4 +1,4 @@
-# bonsai-react
+# Random-Color
 
 Este proyecto ha sido replicado con intenciones educativas
 
